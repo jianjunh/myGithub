@@ -20,6 +20,8 @@
     NSLog(@"linxi");
  
     NSLog(@"asdfadsf");
+    
+    NSLog(@"我是你爹");
 }
 
 - (void)didReceiveMemoryWarning {
