@@ -21,7 +21,11 @@
  
     NSLog(@"asdfadsf");
     
+
     NSLog(@"我是你爹");
+
+    NSLog(@"我是你哥");
+
 }
 
 - (void)didReceiveMemoryWarning {
