@@ -22,6 +22,9 @@
     NSLog(@"asdfadsf");
     
     NSLog(@"dfhjkdghjk");
+        NSLog(@"dfhjkdghjk");
+        NSLog(@"dfhjkdghjk");
+
     NSLog(@"我是你爹");
 
     NSLog(@"我是你哥");
